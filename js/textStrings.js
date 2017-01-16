@@ -146,7 +146,7 @@ var textStrings_DE = {
     // MANIFESTO
     "manifesto" : [
        //"Als ob ihr an guten Nachrichten interessiert seid."     ,
-       "Wer will denn sehen, wie Leute miteinender klarkommen?" ,
+       "Wer will denn sehen, wie Leute miteinender klarkommen?" , quem liga a TV para ver as *pessoas se dando bem*
        "Frieden ist langweilig. Die Leute wollen Gewalt sehen." ,
        //"Frieden ist langweilig. Konflikt bringt Klicks."        ,
        "Jede gute Story braucht einen Konflikt, also..."        ,
@@ -206,6 +206,108 @@ var textStrings_DE = {
     
     // (quote0004.png)
     "misatrributed"      : "(falsch zugeschrieben)" ,
+};
+
+var textStrings_PT = {
+    // Act 1
+    "niceHat"              : "Oh, que chapéu massa!"                                             ,
+    "outtaHere"            : "Ok, sai daqui."                                                    ,
+    "getARoom"             : "Que nojo, arrumem um quarto!"                                      ,
+    "notCoolAnymore"       : "Chapéus não são a moda, se liga."                                  ,
+    "tvOnTv"               : "UMA TV! EM OUTRA TV!"                                              ,
+    "cricky"               : "Olha, um grilho!"                                                  ,
+    "tooManyCrickets"      : "Ok, chama alguém para botar veneno."                               ,
+    "normalPeep"           : "Um pessoa qualquer."                                               ,
+    "normalPeeps"          : "Várias pessoas comuns"                                             ,
+    "wowNothing"           : "Uau! Nossa! NÃO TEM NADA!"                                         ,
+    
+    // Act 2
+    "crazySquareAttacks"   : "Quadrado maluco ataca!"                                            ,
+    "justMissed"           : "Ooooh, não fotografou na hora certa."                              ,
+    "somethingInteresting" : "(Você presica fotografar eles fazendo algo *interessante*)"        ,
+    "whoIsScreaming"       : "(Quem está gritando com eles?)"                                    ,
+    "circleFearsSquares"   : "CÍRCULO TEM MEDO DE QUADRADO!"                                     ,
+    "whoScaresThem"        : "(*Quem* está assustando eles?)"                                    ,
+    "areTheyScared"        : "(Você precisa fotografar ele sendo *assustado* por um quadrado)"   ,
+    "squaresSnubCircles"   : "QUADRADO ESNOBA CÍRCULO!"                                          ,
+    "areTheySnubbed"       : "(Você precisa fotografar eles *esnobando* um círculo)"             ,
+    "everyoneHates"        : "TODO MUNDO ODEIA TODO MUNDO!!1!"                                   ,
+    "almostEveryoneHates"  : "QUASE TODO MUNDO ODEIA TODO MUNDO!"                                ,
+    "squaresHateCircles"   : "QUADRADO ODEIA CÍRCULO"                                            ,
+    "circlesHateSquares"   : "CÍRCULO ODEIA QUADRADO"                                            ,
+    "areTheyYelling"       : "(Você precisa fotografar eles *gritando* com os outros)"           ,
+    "nerdsNow"             : "O que esses nerds estão fazendo?"                                  , 
+    "schockedPeep"         : "Porque esse cara está chocado?"                                    ,
+    "whatever"             : "Enfim..."                                                          ,
+    
+    // Act 3
+    "ellipsis"             : ". . ."                                                             ,
+    "coolNoMore"           : "Os chapéus não mais massa ou você não sabe AINDA!?"                ,
+    "beScared"             : "ESTEJA COM MEDO! ESTEJA COM RAIVA!"                                ,
+    
+    // MANIFESTO
+    "manifesto" : [
+       //"Como se os telespectadores quisessem notícias BOAS"       ,
+       "Quem liga a TV para assistir as *pessoas se dando bem?*" , 
+       "Paz é entendiante. Violência é viral." , 
+       //"Paz é entendiante. Conflitos dão muitos cliques."        , 
+       "e todo história precisa de um conflito, então..."        , 
+       //"DÊ A AUDIÊNCIA O QUE ELES QUEREM!"                       ,
+       "DÊ A AUDIÊNCIA O QUE ELES QUEREM!"
+    ] ,
+    
+    // -- Strings currently in graphics resources --
+    
+    // (bg_preload.png) Preload screen
+    "playingTime"        : "Tempo de jogo: 5 minutos" ,
+    "warning"            : "Aviso:  o jogo seguinte contém cenas de esnobismo, violência & homícidios em massa. Jogue por sua conta e risco." ,
+    
+    // (cam-instructions.png) Camera Instructions
+    "pointAndClick"      : "POINT & CLICK" , // There's no translation for this in portuguese, if there is, we don't use it. /DYeelhoy
+    
+    // (chyron3.png)
+    "chyronNothing"      : "NOSSA! NÃO É *NADA*!" ,
+    
+    // (credits0001.png)
+    "createdBy"          : "criado por" , 
+    "NickyCase"          : "Nicky Case" , 
+    
+    // (credits0002.png)
+    "manyThanks"         : "Muito obrigado aos jogadores que testaram meu jogo:" ,
+    
+    // (credits000[3,4,5,6].png)
+    "patreonSupporters"  : "e também para os meus apoiadores do Patreon:" ,
+    
+    // (credits0007.png)
+    "lastButNotLeast"    : "E por último, mas não menos importante," ,
+    
+    // (credits0008.png)
+    "thankYouForPlaying" : "um grande obrigado por jogar!" , 
+    
+    // (preload_play.png)
+    "playButton"         : "JOGAR" ,
+    
+    // (end_button.png) Post Credits
+    "otherWorkButton"    : "Admire meu projeto" , 
+    "buyCoffeeButton"    : "Compre-me um café" ,
+    "replayButton"       : "Jogar novamente" , 
+    
+    // (logo.png) Post Credits
+    "logoWBWWB"          : "COMPARTILHE A DOR:" ,
+    
+    // (end_prototype.png)
+    "endOfPrototype"     : "FIM DO PROTÓTIPO" , 
+    "toBeContinued"      : "(Continua...!)" , 
+    
+    // (quote0002.png)
+    "WBWWB"              : "Nós nos tornamos o que vemos." , 
+    "WSOTATOTSU"         : "O homem cria a ferramenta e a ferramenta recria o homem." , 
+    
+    // (quote0003.png)
+    "MarshallMcLuhan"    : "Marshall McLuhan" , 
+    
+    // (quote0004.png)
+    "misatrributed"      : "(desatribuído)" , 
 };
 
 var textStrings = textStrings_EN
